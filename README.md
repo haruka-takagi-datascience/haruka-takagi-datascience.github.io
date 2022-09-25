@@ -5,6 +5,7 @@
 3. [Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)
 4. [Unsupervised Machine Learning: K-means Clustering: Cross Stich Creation from Images](https://haruka-takagi-datascience.github.io/unsupervised_ml/)
 5. [Data Collection: Yahoo Answers Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)
+6. [Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)
 
 
 ## Coming Soon!
