@@ -1,12 +1,12 @@
 # Haruka Takagi Data Science Portfolio
 
-1. [Data Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)
-2. [Data Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)
+1. [Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)
+2. [Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)
 3. [Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)
 4. [Unsupervised Machine Learning: K-means Clustering: Cross Stich Creation from Images](https://haruka-takagi-datascience.github.io/unsupervised_ml/)
 5. [Data Collection: Yahoo Answers Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)
-6. [Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)
-
+6. [Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)
+7. [Data/Text Transformation: Expanding the CSJ corpus with regular dialogue text](https://haruka-takagi-datascience.github.io/text_transformation/)
 
 ## Coming Soon!
 1. Supervised Machine Learning Project
