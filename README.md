@@ -7,3 +7,9 @@
 5. [Data Collection: Yahoo Answers Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)
 
 
+## Coming Soon!
+1. Supervised Machine Learning Project
+2. Data Visualization Project
+3. Finance Project
+4. Reinforcement Learning Project
+5. Dialogue Act Classification Project
