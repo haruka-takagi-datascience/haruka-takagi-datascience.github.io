@@ -10,11 +10,11 @@
 8. [Textual Analysis: 0000](https://haruka-takagi-datascience.github.io/textual_analysis/)
 9. [Automatic Feature Selection: 000000](https://haruka-takagi-datascience.github.io/feature_selection/)
 10. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
-11. [Unsupervised NLP: 0000000](https://haruka-takagi-datascience.github.io/unsupervised_nlp/)
 
 ## Coming Soon!
-1. Supervised Machine Learning Project
-2. Data Visualization Project
-3. Finance Project
-4. Reinforcement Learning Project
-5. Dialogue Act Classification Project
+1. Unsupervised NLP Project
+2. Supervised ML Project
+3. Data Visualization Project
+4. Finance Project
+5. Reinforcement Learning Project
+
