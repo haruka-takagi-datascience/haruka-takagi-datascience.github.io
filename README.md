@@ -7,7 +7,7 @@
 5. [Data Collection: Yahoo Answers Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)
 6. [Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)
 7. [Data/Text Transformation: Expanding the CSJ corpus with regular dialogue text](https://haruka-takagi-datascience.github.io/text_transformation/)
-8. [Textual Analysis: 0000](https://haruka-takagi-datascience.github.io/textual_analysis/)
+8. [Topic Modelling/Textual Analysis: 0000](https://haruka-takagi-datascience.github.io/textual_analysis/)
 9. [Automatic Feature Selection: 000000](https://haruka-takagi-datascience.github.io/feature_selection/)
 10. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
 
