@@ -17,4 +17,5 @@
 3. Data Visualization Project
 4. Finance Project
 5. Reinforcement Learning Project
+6. Dialogue Act Classification Project
 
