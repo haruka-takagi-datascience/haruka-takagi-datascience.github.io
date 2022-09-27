@@ -15,7 +15,8 @@
 1. Unsupervised NLP Project
 2. Supervised ML Project
 3. Data Visualization Project
-4. Finance Project
-5. Reinforcement Learning Project
-6. Dialogue Act Classification Project
+4. Finance: Investments Project
+5. Finance: Corporate Finance Project
+6. Reinforcement Learning Project
+7. Dialogue Act Classification Project
 
