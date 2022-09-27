@@ -11,7 +11,7 @@
 9. [Automatic Feature Selection: 000000](https://haruka-takagi-datascience.github.io/feature_selection/)
 10. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
 
-## Coming Soon!
+## In development! Coming Soon!
 1. Unsupervised NLP Project
 2. Supervised ML Project
 3. Data Visualization Project
