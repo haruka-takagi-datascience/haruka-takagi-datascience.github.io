@@ -6,10 +6,8 @@
 4. [Unsupervised Machine Learning: K-means Clustering: Cross Stich Creation from Images](https://haruka-takagi-datascience.github.io/unsupervised_ml/)
 5. [Data Collection: Yahoo Answers Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)
 6. [Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)
-7. [Data/Text Transformation: Expanding the CSJ corpus with regular dialogue text](https://haruka-takagi-datascience.github.io/text_transformation/)
-8. [Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)
-9. [Automatic Feature Selection: 000000](https://haruka-takagi-datascience.github.io/feature_selection/)
-10. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
+7. [Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)
+8. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
 
 ## In development! Coming Soon!
 1. Unsupervised NLP Project
