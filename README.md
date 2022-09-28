@@ -7,11 +7,11 @@
 5. [Data Collection: Question & Answer forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)
 6. [Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)
 7. [Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)
-8. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
+8. [Supervised Natural Language Processing: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
 
 ## In development: Coming Soon!
-1. Unsupervised NLP Project
-2. Supervised ML Project
+1. Unsupervised Natural Language Processing Project
+2. Supervised Machine Learning Project
 3. Data Visualization Project
 4. Finance: Investments Project
 5. Finance: Corporate Finance Project
