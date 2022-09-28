@@ -9,7 +9,7 @@
 7. [Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)
 8. [Supervised NLP: 0000000](https://haruka-takagi-datascience.github.io/supervised_nlp/)
 
-## In development! Coming Soon!
+## In development: Coming Soon!
 1. Unsupervised NLP Project
 2. Supervised ML Project
 3. Data Visualization Project
