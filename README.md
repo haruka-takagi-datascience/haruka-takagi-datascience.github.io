@@ -15,5 +15,5 @@
 3. Data Visualization Project
 4. Finance: Investments Project
 5. Finance: Corporate Finance Project
-6. Dialogue Act Classification Project: Improved model of Agreement/Disagreemnt LSTM model
+6. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
 
