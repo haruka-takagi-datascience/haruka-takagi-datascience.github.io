@@ -19,30 +19,30 @@ Email: haruka.takagi.datascience@gmail.com
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
 
 ## PROJECT OVERVIEWS
-Below is a description and brief overview for each data science project!
+Below is a description and brief overview for each data science project!<br />
 <br />
 [Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Data/Statistical Analysis II: EU Powersector Analysis**](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
+[Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Econometrics: Partisanship & COVID-19**](https://haruka-takagi-datascience.github.io/econometrics/)<br />
+[Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Unsupervised Machine Learning: Cross Stitch Creation from Images**](https://haruka-takagi-datascience.github.io/unsupervised_ml/)<br />
+[Unsupervised Machine Learning: Cross Stitch Creation from Images](https://haruka-takagi-datascience.github.io/unsupervised_ml/)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Data Collection: Question & Answer Forum Webscraper**](https://haruka-takagi-datascience.github.io/data_collection/)<br />
+[Data Collection: Question & Answer Forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Data/Text Processing: Building a Special Furigana Machine**](https://haruka-takagi-datascience.github.io/text_processing/)<br />
+[Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials**](https://haruka-takagi-datascience.github.io/textual_analysis/)<br />
+[Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)<br />
 skdfjdslkfjsdkljfklsd
 
-[**Supervised Natural Language Processing: Agreement LSTM model on Federal Open Market Committee Meeting Transcripts**](https://haruka-takagi-datascience.github.io/supervised_nlp/)<br />
+[Supervised Natural Language Processing: Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/)<br />
 skdfjdslkfjsdkljfklsd
 <br />
 
