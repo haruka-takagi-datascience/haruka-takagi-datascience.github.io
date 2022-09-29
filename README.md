@@ -7,6 +7,7 @@ Email: haruka.takagi.datascience@gmail.com
 
 
 ## TABLE OF CONTENTS
+
 |        | Topic        | Project           |
 | ------------- |-------------|-------------|
 |1| Data/Statistical Analysis I     | [Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/) |
