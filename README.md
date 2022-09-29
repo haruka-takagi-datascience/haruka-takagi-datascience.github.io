@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 1. [Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)
 2. [Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)
 3. [Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)
@@ -8,7 +8,7 @@
 7. [Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)
 8. [Supervised Natural Language Processing: Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/)
 
-## In development: Coming Soon!
+# In development: Coming Soon!
 1. Unsupervised Natural Language Processing Project
 2. Supervised Machine Learning Project
 3. Data Visualization Project
