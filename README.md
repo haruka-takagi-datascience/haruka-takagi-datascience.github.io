@@ -3,7 +3,7 @@ I am an aspiring data scientist! I have experience working as a Machine Learning
 
 Resume: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1mM8XmrZHNA6VwIPC0UOvPcZ3EPfs_GVM/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/)
-
+Email: haruka.takagi.datascience@gmail.com
 
 
 # Table of Contents
