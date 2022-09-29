@@ -6,7 +6,7 @@ Resume: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1mM8XmrZHNA6
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com
 <br />
-<br />
+
 ## TABLE OF CONTENTS
 
 |        | Topic        | Project           |
@@ -20,11 +20,9 @@ Email: haruka.takagi.datascience@gmail.com
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
 <br />
-<br />
 
 ## PROJECT OVERVIEWS
 
-<br />
 <br />
 
 ## COMING SOON!
