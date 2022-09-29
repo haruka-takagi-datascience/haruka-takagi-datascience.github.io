@@ -20,7 +20,7 @@ Email: haruka.takagi.datascience@gmail.com
 
 ## PROJECT OVERVIEWS
 
-Below is a description and brief overview for each data science project!
+<ins>textBelow is a description and brief overview for each data science project!</ins>
 
 ### Data/Statistical Analysis I: Housing Sale Price Analysis
 skdfjdslkfjsdkljfklsd
