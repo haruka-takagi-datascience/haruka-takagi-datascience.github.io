@@ -50,7 +50,6 @@ skdfjdslkfjsdkljfklsd
 skdfjdslkfjsdkljfklsd
 
 <br />
-<br />
 
 ## COMING SOON!
 1. Unsupervised Natural Language Processing Project
