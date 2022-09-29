@@ -1,7 +1,7 @@
 # About me!
 I am an aspiring data scientist! I have experience working as a Machine Learning Engineer and have been on multiple academic finance research projects as a researcher. I am currently look for full-time oppurtunities for May 2023 in Toronto, Ontario, Canada as a data scientist, data analyst or financial analyst! 
 
-My resume is on my linkedin! <br /> https://www.linkedin.com/in/haruka-takagi/ <br /> <br /> Feel free to contact me via email! <br /> haruka.takagi.datascience@gmail.com
+My resume is on my linkedin! <br /> https://www.linkedin.com/in/haruka-takagi/
 
 
 
