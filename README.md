@@ -1,11 +1,11 @@
-## ABOUT ME!
+# ABOUT ME!
 I am an aspiring data scientist! I have experience working as a Machine Learning Engineer and have been on multiple academic finance research projects as a researcher. I am currently look for full-time oppurtunities for May 2023 in Toronto, Ontario, Canada as a data scientist, data analyst or financial analyst! 
 
 Resume: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1mM8XmrZHNA6VwIPC0UOvPcZ3EPfs_GVM/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com
 
-## TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 |        | Topic        | Project           |
 | ------------- |-------------|-------------|
@@ -18,23 +18,23 @@ Email: haruka.takagi.datascience@gmail.com
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
 
-## PROJECT OVERVIEWS
+# PROJECT OVERVIEWS
 
 Below is a description and brief overview for each data science project!
 
-#### Data/Statistical Analysis I: Housing Sale Price Analysis
+### Data/Statistical Analysis I: Housing Sale Price Analysis
 skdfjdslkfjsdkljfklsd
 
-#### Data/Statistical Analysis II: EU Powersector Analysis
+### Data/Statistical Analysis II: EU Powersector Analysis
 skdfjdslkfjsdkljfklsd
 
-#### Data/Statistical Analysis I: Housing Sale Price Analysis
+### Data/Statistical Analysis I: Housing Sale Price Analysis
 skdfjdslkfjsdkljfklsd
 
-#### Data/Statistical Analysis II: EU Powersector Analysis
+### Data/Statistical Analysis II: EU Powersector Analysis
 skdfjdslkfjsdkljfklsd
 
-## COMING SOON!
+# COMING SOON!
 1. Unsupervised Natural Language Processing Project
 2. Supervised Machine Learning Project
 3. Data Visualization Project
