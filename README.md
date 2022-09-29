@@ -19,7 +19,7 @@ Email: haruka.takagi.datascience@gmail.com
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
 
 ## PROJECT OVERVIEWS
-Below is a description and brief overview for each data science project!<br />
+Below is a description and brief overview for each data science project!
 <br />
 [Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
 skdfjdslkfjsdkljfklsd
