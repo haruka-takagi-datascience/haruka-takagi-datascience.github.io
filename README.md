@@ -48,7 +48,7 @@ skdfjdslkfjsdkljfklsd
 
 [Supervised Natural Language Processing: Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/)<br />
 skdfjdslkfjsdkljfklsd
-
+<br />
 <br />
 
 ## COMING SOON!
