@@ -1,6 +1,6 @@
 ## ABOUT ME!
 I am an aspiring data scientist! I have experience working as a Machine Learning Engineer and have been on multiple academic finance research projects as a researcher. I am currently look for full-time oppurtunities for May 2023 in Toronto, Ontario, Canada as a data scientist, data analyst or financial analyst! 
-
+<br />
 Resume: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1mM8XmrZHNA6VwIPC0UOvPcZ3EPfs_GVM/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com
@@ -18,8 +18,12 @@ Email: haruka.takagi.datascience@gmail.com
 |6| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
+<br />
+<br />
+## PROJECT OVERVIEWS
 
-
+<br />
+<br />
 ## COMING SOON!
 1. Unsupervised Natural Language Processing Project
 2. Supervised Machine Learning Project
