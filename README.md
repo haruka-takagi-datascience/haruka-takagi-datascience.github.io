@@ -6,7 +6,7 @@ In industry, I have 1 year of experience working as a Machine Learning/Natural L
 
 I am actively looking for Data Analyst, Data Scientist & Financial Analyst roles for May 2023 in Toronto, Ontario, Canada! Please feel free to reach out to me via email if you think I would be a great addition to your team! I'd be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio.
 
-Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1mM8XmrZHNA6VwIPC0UOvPcZ3EPfs_GVM/view?usp=sharing) <br />
+Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/14F_pbV_uA5AxXJB4VXTceu_dL-7vqs5E/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com
 <br />
