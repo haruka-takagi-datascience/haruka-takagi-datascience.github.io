@@ -7,6 +7,7 @@ Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/
 Email: haruka.takagi.datascience@gmail.com
 <br />
 
+
 ## TABLE OF CONTENTS
 
 |        | Topic        | Project           |
@@ -19,6 +20,7 @@ Email: haruka.takagi.datascience@gmail.com
 |6| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
+
 
 ## PROJECT OVERVIEWS
 
