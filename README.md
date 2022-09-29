@@ -7,17 +7,17 @@ Email: haruka.takagi.datascience@gmail.com
 
 
 ## TABLE OF CONTENTS
-| Topic        | Project           |
-| ------------- |:-------------:|
-| Data/Statistical Analysis I     | [Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/) |
-| Data/Statistical Analysis II      | [EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II) |
-| Econometrics      | [EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II) |
-| Unsupervised Machine Learning      | [Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/) |
-| Data Collection      | [Question & Answer Forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/) |
-| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
-| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
-| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
-| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
+|        | Topic        | Project           |
+| ------------- |:-------------:|:-------------:|
+|1| Data/Statistical Analysis I     | [Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/) |
+|2| Data/Statistical Analysis II      | [EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II) |
+|3| Econometrics      | [EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II) |
+|4| Unsupervised Machine Learning      | [Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/) |
+|5| Data Collection      | [Question & Answer Forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/) |
+|6| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
+|7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
+|8| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
+|9| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
 
 
 
