@@ -24,14 +24,9 @@ Below is a description and brief overview for each data science project!<br />
 [**Data/Statistical Analysis I: Housing Sale Price Analysis**](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
 skdfjdslkfjsdkljfklsd
 
-### Data/Statistical Analysis II: EU Powersector Analysis
+[**Data/Statistical Analysis I: Housing Sale Price Analysis**](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
 skdfjdslkfjsdkljfklsd
 
-### Data/Statistical Analysis I: Housing Sale Price Analysis
-skdfjdslkfjsdkljfklsd
-
-### Data/Statistical Analysis II: EU Powersector Analysis
-skdfjdslkfjsdkljfklsd
 
 ## COMING SOON!
 1. Unsupervised Natural Language Processing Project
