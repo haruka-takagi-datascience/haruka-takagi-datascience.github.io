@@ -22,16 +22,16 @@ Email: haruka.takagi.datascience@gmail.com
 
 Below is a description and brief overview for each data science project!
 
-### Data/Statistical Analysis I: Housing Sale Price Analysis
+#### Data/Statistical Analysis I: Housing Sale Price Analysis
 skdfjdslkfjsdkljfklsd
 
-### Data/Statistical Analysis II: EU Powersector Analysis
+#### Data/Statistical Analysis II: EU Powersector Analysis
 skdfjdslkfjsdkljfklsd
 
-### Data/Statistical Analysis I: Housing Sale Price Analysis
+#### Data/Statistical Analysis I: Housing Sale Price Analysis
 skdfjdslkfjsdkljfklsd
 
-### Data/Statistical Analysis II: EU Powersector Analysis
+#### Data/Statistical Analysis II: EU Powersector Analysis
 skdfjdslkfjsdkljfklsd
 
 ## COMING SOON!
