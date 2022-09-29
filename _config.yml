@@ -4,7 +4,7 @@ plugins:
 
 title: Haruka Takagi's Data Science Portfolio
 logo: images/cute_simon.png
-description: Thanks for stopping by my data science portfolio! Simon welcomes you to this page! Grab a coffee and please browse around the projects that are of interest to you! :D  <br /> <br /> Feel free to contact me via email! <br /> haruka.takagi.datascience@gmail.com  
+description: Thanks for stopping by my data science portfolio! Simon welcomes you to this page! Grab a coffee and please browse around the projects that are of interest to you!  <br /> <br /> Feel free to contact me via email! <br /> haruka.takagi.datascience@gmail.com  
 show_downloads: false
 google_analytics: true
 theme: jekyll-theme-minimal
