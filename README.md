@@ -11,7 +11,6 @@ Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1EjCWfuNw
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com <br />         
 <br />
-<br />
 
 ## TABLE OF CONTENTS
 
