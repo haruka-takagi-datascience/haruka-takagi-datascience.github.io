@@ -61,9 +61,9 @@ In this application of webscraping, I built a web scraper that collects the ques
 <br />
 <br />
 [6. Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)<br />
-sdfdsffsd
+In this project I will be creating a special furigana machine that will be able to put these readings on any combination of characters individually. For example, using this machine the program will be able to determine that 今日 is 今:きょ:kyo + 日:う:u. This will be useful to implement in Japanese learning textbooks or a new program that will help learners read any text. <br />
 <br />
-**Subject Areas**:  <br />
+**Subject Areas**: Morphological Analysis, Text Processing, Python. <br />
 <br />
 <br />
 [7. Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)<br />
