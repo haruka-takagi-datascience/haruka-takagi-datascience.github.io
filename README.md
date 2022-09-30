@@ -55,9 +55,9 @@ This project is a vignette that covers functions that can be used to execute k-m
 <br />
 <br />
 [5. Data Collection: Question & Answer Forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)<br />
-dsfdsfdsds
+In this application of webscraping, I built a web scraper that collects the question and best answer to questions from yahoo answers based on a list of search terms. A webscraper like this can be used for several different uses, such as expanding the corpus of an automatic speech recognition model to take into account domain specific words. I also output term frequency inverse document frequency (tf-idf) terms to prepare the corpus for analysis. <br />
 <br />
-**Subject Areas**:  <br />
+**Subject Areas**: Webscraping, Data Collection, Python, Data Manipulation, Data Analysis. <br />
 <br />
 <br />
 [6. Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)<br />
