@@ -10,6 +10,9 @@ I am actively looking for Data Analyst, Data Scientist & Financial Analyst roles
 Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1EjCWfuNwexdpdL_SQ7KDL9GtOCegVZPJ/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="haruka-takagi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/haruka-takagi?trk=profile-badge">Haruka Takagi</a></div>
+              
 <br />
 <br />
 
