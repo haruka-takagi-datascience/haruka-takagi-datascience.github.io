@@ -32,7 +32,6 @@ Below is a description and brief overview for each data science project!
 
 [1. Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
 This project explores data from the Toronto Real Estate Board (TREB) on detached houses in Toronto and Missisauga. We will use this dataset to estabilish a multiple linear regression model (MLR) which home buyers can use to predict the sale price of single-family, detached homes. The report settles on the Backwards AIC model for feature selection, and finds location to be the largest swayer of sale price, with the number of bedrooms at second most importance. We also found that taxes does not influence sale price as much as expected. <br />
-<br />
 **Subject Areas**: Data Manipulation, Exploratory Data Analysis, Feature Selection, Statistical Diagnostics <br />
 
 [2. Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
