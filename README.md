@@ -43,7 +43,7 @@ This project is an investigation into the European Union Power Section and its C
 <br />
 <br />
 [3. Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)<br />
-sdfdsfds
+In this project, I examine the impact of republican vote share in the US 2020 presidential election and full vaccination percentage on the number of Covid-19 Deaths per 100,000 post Jun 26th, 2021. Economic theory on vaccines as a public good predicts that vaccines will deliver an externality benefit, yielding decreasing returns. Examinations of the current political climate also suggest a bias in vaccine uptake with respect to partisanship. To test the predictions of this theory and public sentiment, I estimate the impact of republican vote share and vaccination rate on the Covid-19 death rate. Increases in republican vote share increase Covid-19 death rates. Increases in vaccination rates decrease Covid-19 death rates. These findings shed new light on the determining factors of individual vaccine decisions, and Covid-19 death prone populations. The project suggests that partisan anti-vaccine sentiment will directly affect their supporting populations negatively. <br />
 <br />
 **Subject Areas**:  <br />
 <br />
