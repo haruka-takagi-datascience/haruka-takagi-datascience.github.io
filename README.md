@@ -35,6 +35,7 @@ This project explores data from the Toronto Real Estate Board (TREB) on detached
 <br />
 **Subject Areas**: Data Manipulation, Exploratory Data Analysis, Feature Selection, Statistical Diagnostics <br />
 <br />
+<br />
 [2. Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
 
 [3. Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)<br />
