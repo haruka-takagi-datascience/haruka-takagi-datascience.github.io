@@ -39,7 +39,7 @@ This project explores data from the Toronto Real Estate Board (TREB) on detached
 [2. Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
 This project is an investigation into the European Union Power Section and its Clean Energy Status. The data used for this report is from EuroStat, and it investigated the 2019 statistics annual electricity data from 2016 to 2018 on the volumes of electricity that have been produced and supplied at the level of the European Union. The overarching finding was that clean renewable energy production integration is going very well and has progressed in the European Union. With specific findings such as, with 95% probability, the true proportion of EU countries that have met their target in 2018 is between 0.21 and 0.44 based on prior information. <br />
 <br />
-**Subject Areas**:  Data Analysis, Statistical Analysis, Goodness of Fit Test, Bayesian Credible Intervals, etc. <br />
+**Subject Areas**:  Data Analysis, Statistical Analysis, Goodness of Fit Test, Bayesian Credible Intervals, etc <br />
 <br />
 <br />
 [3. Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)<br />
@@ -49,9 +49,9 @@ In this project, I examine the impact of republican vote share in the US 2020 pr
 <br />
 <br />
 [4. Unsupervised Machine Learning: Cross Stitch Creation from Images](https://haruka-takagi-datascience.github.io/unsupervised_ml/)<br />
-dsfdsfds
+This project is a vignette that covers functions that can be used to execute k-means clustering on images in a streamlines workflow. This tutorial will take you through the script and functions needed to create a cross stich guideline from any image. <br />
 <br />
-**Subject Areas**:  <br />
+**Subject Areas**:  Unsupervised machine learning, R. <br />
 <br />
 <br />
 [5. Data Collection: Question & Answer Forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)<br />
