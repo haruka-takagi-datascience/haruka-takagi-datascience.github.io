@@ -7,7 +7,7 @@ In academia, I have 3 years of experience working as a Financial Data Analytics/
 
 I am actively looking for Data Analyst, Data Scientist & Financial Analyst roles for May 2023 in Toronto, Ontario, Canada! Please feel free to reach out to me via email if you think I would be a great addition to your team! I'd be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio. 
 
-Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1OMO-g7CWiIL3aGh8GHxPUEvMFDZnQwpg/view?usp=sharing) <br />
+Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1EjCWfuNwexdpdL_SQ7KDL9GtOCegVZPJ/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com
 <br />
