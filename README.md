@@ -31,28 +31,20 @@ Email: haruka.takagi.datascience@gmail.com
 Below is a description and brief overview for each data science project!
 
 [1. Data/Statistical Analysis I: Housing Sale Price Analysis](https://haruka-takagi-datascience.github.io/data_analysis_I/)<br />
-skdfjdslkfjsdkljfklsd
 
 [2. Data/Statistical Analysis II: EU Powersector Analysis](https://github.com/haruka-takagi-datascience/data_analysis_II)<br />
-skdfjdslkfjsdkljfklsd
 
 [3. Econometrics: Partisanship & COVID-19](https://haruka-takagi-datascience.github.io/econometrics/)<br />
-skdfjdslkfjsdkljfklsd
 
 [4. Unsupervised Machine Learning: Cross Stitch Creation from Images](https://haruka-takagi-datascience.github.io/unsupervised_ml/)<br />
-skdfjdslkfjsdkljfklsd
 
 [5. Data Collection: Question & Answer Forum Webscraper](https://haruka-takagi-datascience.github.io/data_collection/)<br />
-skdfjdslkfjsdkljfklsd
 
 [6. Data/Text Processing: Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/)<br />
-skdfjdslkfjsdkljfklsd
 
 [7. Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)<br />
-skdfjdslkfjsdkljfklsd
 
 [8. Supervised Natural Language Processing: Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/)<br />
-skdfjdslkfjsdkljfklsd
 <br />
 <br />
 
