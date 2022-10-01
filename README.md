@@ -67,15 +67,15 @@ In this project I will be creating a special furigana machine that will be able 
 <br />
 <br />
 [7. Topic Modelling/Textual Analysis: Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/)<br />
-sdfsdfdsfds
+In this project we execute a topic model; latent dirichlect Allocation on the Federal Open Market Committee Historical Materials. These historical materials from the FED cover different areas of monetary policy decision making information. In the end we find 4 topics that are well suited for the Greenbook Historical Materials. The topics are production, lending rates, demand, foreign relations. 
 <br />
-**Subject Areas**:  <br />
+**Subject Areas**: NLP, Textual Analysis, Python, R, Topic Modelling, Data Collection, Data Cleaning, LDA <br />
 <br />
 <br />
 [8. Supervised Natural Language Processing: Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/)<br />
-sdfdsfdsfgds
+In this project we will be replicating a 2019 paper by Mikael Apel, Marianna Blix Grimaldi and Isaiah Hull from Sveriges Riksbank (Central Bank of Sweden), titled, “How Much Information Do Monetary Policy Committees Disclose? Evidence from FOMC’s Minutes and Transcripts.” This paper is in the field of central bank communication, monetary policy and machine learning. This paper does not have any scripts attached to it, so we will be intepreting the methedology from the paper to recreate their results. In the end we achieve a result of 78% in-sample accuracy nad 67% out-out-sample accuracy, which is the same out-of-sample accuracy as the paper.
 <br />
-**Subject Areas**:  <br />
+**Subject Areas**: Deep learning, NLP, Text Modelling, Python, LSTM, Classification Models <br />
 <br />
 <br />
 
