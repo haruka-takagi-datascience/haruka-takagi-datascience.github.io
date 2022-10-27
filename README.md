@@ -80,10 +80,11 @@ In this project we will be replicating a 2019 paper by Mikael Apel, Marianna Bli
 <br />
 
 ## COMING SOON!
-1. Unsupervised Natural Language Processing Project
-2. Supervised Machine Learning Project
-3. Data Visualization Project
+1. Static Data Visualization I (To be released October 27th, 2022)
+2. Unsupervised Natural Language Processing Project
+3. Supervised Machine Learning Project
 4. Finance: Investments Project
 5. Finance: Corporate Finance Project
 6. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
+7. Interactive/Dynamic Data Visualization II
 
