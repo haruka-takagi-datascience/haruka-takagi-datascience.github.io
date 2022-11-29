@@ -24,7 +24,7 @@ Email: haruka.takagi.datascience@gmail.com
 |6| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
-|9| Static Data Visualization      | [Visualizing Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/static_data_visualization/) |
+|9| Static Data Visualization      | [Visualizing Bicycle Theft in Toronto](https://github.com/haruka-takagi-datascience/static_data_visualization/) |
 
 <br />
 
@@ -79,7 +79,7 @@ In this project we will be replicating a 2019 paper by Mikael Apel, Marianna Bli
 **Subject Areas**: Deep learning, NLP, Text Modelling, Python, LSTM, Classification Models <br />
 <br />
 <br />
-[9. Static Data Visualization: Visualizing Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/static_data_visualization)<br />
+[9. Static Data Visualization: Visualizing Bicycle Theft in Toronto](https://github.com/haruka-takagi-datascience/static_data_visualization/)<br />
 In this project we will be investigating Toronto bicycle theft crimes with statis data visualization techniques using R. We investigate the seasonality and time patterns of bicycle thefts in Toronto. We also identify neighborhoods with the most bicycle theft cases.<br />
 <br />
 **Subject Areas**: Data analysis, Data visualization, R, Data cleaning <br /> 
