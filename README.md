@@ -24,7 +24,7 @@ Email: haruka.takagi.datascience@gmail.com
 |6| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
-|9| Static Data Visualization      | [Visualizating Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/data_vis_1/) |
+|9| Static Data Visualization      | [Visualizing Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/data_vis_1/) |
 
 <br />
 
