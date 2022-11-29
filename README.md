@@ -24,6 +24,7 @@ Email: haruka.takagi.datascience@gmail.com
 |6| Data/Text Processing      | [Building a Special Furigana Machine](https://haruka-takagi-datascience.github.io/text_processing/) |
 |7| Topic Modelling/Textual Analysis      | [Latent Dirichlet Allocation on FOMC Historical Materials](https://haruka-takagi-datascience.github.io/textual_analysis/) |
 |8| Supervised Natural Language Processing      | [Agreement LSTM model on Federal Open Market Committee Meeting Transcripts](https://haruka-takagi-datascience.github.io/supervised_nlp/) |
+|9| Static Data Visualization      | [Visualizating Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/data_vis_1/) |
 
 <br />
 
@@ -78,13 +79,16 @@ In this project we will be replicating a 2019 paper by Mikael Apel, Marianna Bli
 **Subject Areas**: Deep learning, NLP, Text Modelling, Python, LSTM, Classification Models <br />
 <br />
 <br />
+[9. Static Data Visualization: Visualizing Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/data_vis_1)<br />
+In this project we will be investigating Toronto bicycle theft crimes with statis data visualization techniques using R. We investigate the seasonality and time patterns of bicycle thefts in Toronto. We also identify neighborhoods with the most bicycle theft cases.
+<br />
+br />
 
 ## COMING SOON!
-1. Static Data Visualization I (To be released October 27th, 2022)
-2. Unsupervised Natural Language Processing Project
-3. Supervised Machine Learning Project
-4. Finance: Investments Project
-5. Finance: Corporate Finance Project
-6. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
-7. Interactive/Dynamic Data Visualization II
+1. Unsupervised Natural Language Processing Project
+2. Supervised Machine Learning Project
+3. Finance: Investments Project
+4. Finance: Corporate Finance Project
+5. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
+6. Interactive/Dynamic Data Visualization
 
