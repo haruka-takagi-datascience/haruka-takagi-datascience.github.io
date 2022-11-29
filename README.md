@@ -80,7 +80,7 @@ In this project we will be replicating a 2019 paper by Mikael Apel, Marianna Bli
 <br />
 <br />
 [9. Static Data Visualization: Visualizing Bicycle Theft in Toronto](https://haruka-takagi-datascience.github.io/data_vis_1)<br />
-In this project we will be investigating Toronto bicycle theft crimes with statis data visualization techniques using R. We investigate the seasonality and time patterns of bicycle thefts in Toronto. We also identify neighborhoods with the most bicycle theft cases.
+In this project we will be investigating Toronto bicycle theft crimes with statis data visualization techniques using R. We investigate the seasonality and time patterns of bicycle thefts in Toronto. We also identify neighborhoods with the most bicycle theft cases.<br />
 <br />
 **Subject Areas**: Data analysis, Data visualization, R, Data cleaning <br /> 
 <br />
