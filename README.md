@@ -5,7 +5,7 @@ In industry, I have 1 year of experience working as a Machine Learning/Natural L
 
 In academia, I have 3 years of experience working as a Financial Data Analytics/ML/NLP Research assistant on 3 different university research projects with the University of Toronto Munk School of Public Policy, Department of Management and Department of Finance. Currently, I am working on a research project with Professor Charles Martineau, Professor Pat Akey, and Professor Vincent Gregoire as the only undergraduate Co-Author on a Finance working paper examining central bank communication by extracting agreement levels from FOMC transcripts using NLP methods.
 
-I am actively looking for Data Scientist roles for May 2023 in Toronto, Ontario, Canada! Please feel free to reach out to me via email if you think I would be a great addition to your team! I'd be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio. 
+I am open to new oppurtunites in Data Scientist roles in Toronto, Ontario, Canada! Please feel free to reach out to me via email if you think I would be a great addition to your team! I'd be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio. I am also open to freelance data science work! Please also send me a message and request, and we can set up a meeting on the prospective projects. 
 
 Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1AEEoF__bIFtBDNBSTOxzLm36xlymo_lh/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
