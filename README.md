@@ -7,7 +7,7 @@ In academia, I have 3 years of experience working as a Financial Data Analytics/
 
 I am open to new oppurtunites in Data Scientist roles in Toronto, Ontario, Canada! Please feel free to reach out to me via email if you think I would be a great addition to your team! I'd be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio. I am also open to freelance data science work! Please also send me a message and request, and we can set up a meeting on the prospective projects. 
 
-Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1gFLXp__hXPc_Cnn3uWPk_c4QzmFdZLQ9/view?usp=drive_link) <br />
+Resume/CV: [Haruka Takagi's Resume/CV](https://drive.google.com/file/d/1Ve9JRBnNrEseEInWGEWCGpgroWhfuhEn/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
 Email: haruka.takagi.datascience@gmail.com     
 <br />
